@@ -1,0 +1,14 @@
+{
+	"name": "sdmshoc2014",
+	"version": "0.0.1",
+	"description": "Home page for SDMS Hour of Code.",
+	"author": "Giselle Koo <gkoo@wethersfield.me>",
+	
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/gisellegk/sdmshoc2014"
+	},
+	"dependencies": {
+		"express": "*"
+	}
+}

@@ -71,3 +71,8 @@ h1 {
 	background:url('./images/hopscotch.jpg') no-repeat;
 	background-position: 55% 50%;
 }
+
+#flappybird {
+	background:url('./images/flappybird.png') no-repeat;
+	background-position: 50% 50%;
+}
